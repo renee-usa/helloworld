@@ -1,2 +1,3 @@
 # hello-world
-Just a training repository
+
+Finally getting some opportunity to learn git - looking forward to it!
